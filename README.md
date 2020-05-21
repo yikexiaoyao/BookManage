@@ -12,19 +12,19 @@
 
 ### 学生功能
 
-![Image text](https://github.com/yikexiaoyao/BookManage/blob/master/images/2.jpg)
+![Image text](https://github.com/yikexiaoyao/BookManage/blob/master/images/2.png)
 
 ### 部分功能展示
 
-![Image text](https://github.com/yikexiaoyao/BookManage/blob/master/images/3.jpg)
+![Image text](https://github.com/yikexiaoyao/BookManage/blob/master/images/3.png)
 
 ### 管理员功能
 
-![Image text](https://github.com/yikexiaoyao/BookManage/blob/master/images/4.jpg)
+![Image text](https://github.com/yikexiaoyao/BookManage/blob/master/images/4.png)
 
 ### 部分功能展示
 
-![Image text](https://github.com/yikexiaoyao/BookManage/blob/master/images/5.jpg)
+![Image text](https://github.com/yikexiaoyao/BookManage/blob/master/images/5.png)
 
 ## 赞赏
 
