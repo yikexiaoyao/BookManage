@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/neusoft/admin/Dao/AdminDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neusoft/admin/Dao/impl/AdminDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neusoft/admin/service/AdminService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neusoft/admin/service/impl/AdminServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neusoft/admin/servlet/AdLoginServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neusoft/admin/servlet/ad_RegisterServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neusoft/admin/servlet/stu_ShowAllServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neusoft/book/dao/BookDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neusoft/book/dao/impl/BookDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neusoft/book/entity/Book.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neusoft/book/service/BookService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neusoft/book/service/impl/BookServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neusoft/book/servlet/FindByIdServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neusoft/book/servlet/PageServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neusoft/book/servlet/ShowAllServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neusoft/book/servlet/UpdateServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neusoft/book/servlet/book_Register.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neusoft/order/Dao/OrderDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neusoft/order/Dao/impl/OrderDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neusoft/order/entity/Order.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neusoft/order/servlet/AddOrderServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neusoft/order/servlet/ShowOrderServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neusoft/student/Dao/StudentDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neusoft/student/Dao/impl/StudentDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neusoft/student/entity/Student.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neusoft/student/service/StudentService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neusoft/student/service/impl/StudentServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neusoft/student/servlet/LoginServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neusoft/util/BaseDao.java" charset="UTF-8" />
+  </component>
+</project>
