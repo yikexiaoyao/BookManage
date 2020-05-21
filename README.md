@@ -12,25 +12,25 @@
 
 ### 学生功能
 
-![Image text](images/2.jpg)
+![Image text](https://github.com/yikexiaoyao/BookManage/blob/master/images/2.jpg)
 
 ### 部分功能展示
 
-![Image text](images/3.jpg)
+![Image text](https://github.com/yikexiaoyao/BookManage/blob/master/images/3.jpg)
 
 ### 管理员功能
 
-![Image text](images/4.jpg)
+![Image text](https://github.com/yikexiaoyao/BookManage/blob/master/images/4.jpg)
 
 ### 部分功能展示
 
-![Image text](images/5.jpg)
+![Image text](https://github.com/yikexiaoyao/BookManage/blob/master/images/5.jpg)
 
 ## 赞赏
 
 请作者喝杯咖啡吧！(微信号：yikexiaoyao)
 
-![Image text](images/zhifubao.jpg) ![Image text](images/weixin.png)
+![Image text](https://github.com/yikexiaoyao/BookManage/blob/master/images/zhifubao.jpg) ![Image text](https://github.com/yikexiaoyao/BookManage/blob/master/images/weixin.png)
 
 ## 安装步骤：
  
