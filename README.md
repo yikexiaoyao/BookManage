@@ -8,7 +8,7 @@
 
 ### 学生/管理员登录
 
-![Image text](images/1.jpg)
+![Image text](https://github.com/yikexiaoyao/BookManage/blob/master/images/1.png)
 
 ### 学生功能
 
