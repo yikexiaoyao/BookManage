@@ -85,11 +85,12 @@ public class BaseDao {
 				e.printStackTrace();
 			}
 		}
-		if(conn!=null)
+		if(conn!=null) {
 			try {
 				conn.close();
 			} catch (SQLException e) {
 				e.printStackTrace();
 			}
+		}
 	}
 }
