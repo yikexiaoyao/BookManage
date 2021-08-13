@@ -2,7 +2,7 @@
 
  图书管理系统
 
- 调试环境：jdk1.8、MySQL8.0、tomcat9.0
+ 调试环境：jdk11.0、MySQL8.0、tomcat9.0
 	
 ## 项目截图
 
